@@ -1,0 +1,10 @@
+J'ai simplifié les pièces afin que les bords des pièces qui s'associent soient parfaitement identique à 2 ou 3 pixels 
+prêt en fonction de leur emplacement. Ainsi il vous est possible de reconstruire plus facilement le puzzle.
+
+De plus le code que vous devez obtenir ce lit de la gauche vers la droite, de haut en bas. Exemple : si les pièces s'associent dans 
+l'ordre chronologique :
+
+1 2 3 4 5
+6 7 8 9 10 
+...		alors le code est 1 2 3 4 5 6 7 8 9 10 ...
+
